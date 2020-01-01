@@ -69,8 +69,7 @@ main p{
     -moz-user-select: none;
     -khtml-user-select: none; 
 	-ms-user-select: none; 
-	font-family: 'Dancing Script', cursive;
-	font-size: 25px;		
+			
 }
 span {
 	color: yellow;
